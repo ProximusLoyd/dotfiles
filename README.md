@@ -1,4 +1,6 @@
 Hello there, 
+-----------
+
 Here, you can find 3 things in dotfiles
 
 1 .config necessary for my custom hyprland theme and its related files [unecessary configs can be removed just after cloning it]
