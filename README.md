@@ -10,6 +10,6 @@ Here, you can find 3 things in dotfiles
 3 wallpapers[only 2] in wall.zip [I borrowed em from typecraft walls]
 --------------------------------------------------------------------------------------------------------------------------------
 
---Use gnu-stow if possible for Better experiance---
+--Use gnu-stow if possible, for better experiance---
 
 ^^ enjoy and share feedbacks! 
