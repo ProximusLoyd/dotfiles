@@ -1,0 +1,124 @@
+* {
+  transition: none;
+  box-shadow: none;
+  font-family: InconsolataNerd Font;
+  font-size: 14px;
+  font-weight: 100;
+}
+
+#waybar {
+  margin-top: 0px;
+  background: transparent;
+}
+
+.modules-left:first-child,
+.modules-right:last-child {
+  background: #030517;
+  border-radius: 5px;
+  border: 2px solid #62AEEF;
+}
+
+#workspaces {
+  margin-left: 2px;
+  margin-right: 1px;
+}
+
+#workspaces button {
+  padding: 0px 0px;
+  background: #030517;
+  border-radius: 3px;
+}
+
+#workspace button.persistent {
+  padding: 0px 1px;
+  background: #030517;
+  border-radius: 0px;
+  border: 0px solid #62AEEF;;
+}
+
+#workspaces button.visible {
+  background-color: rgba(255,255,255,1);
+  background: #030517;
+  border-radius: 0px;
+  border: 0px solid #62AEEF;
+}
+
+#workspaces button.active {
+  color : #ffffff;
+  background: #030517;
+  border-radius: 0px;
+  font-size: 10px;
+  font-weight: 600;
+  border-bottom:2px solid #62AEEF ;
+}
+
+#workspaces button.urgent {
+  border-radius: 6px;
+  border: 0px solid #62AEEF;
+}
+
+#workspaces button.urgent * {
+  color: rgba(255,0,0,0.8);
+}
+
+#clock {
+  margin: 0px 3px 0px 3px;
+  padding: 0px 2px 0px 2px; 
+  background: #030517;
+  border-radius: 5px;
+  border: 2px solid #62AEEF
+}
+
+#tray {
+  margin: 0px 2px;
+  border-radius: 12px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+#tray * {
+  padding: 0 1px;
+  border-left: 1px solid black;
+}
+
+#tray *:first-child {
+  border-left: none;
+}
+
+#mode, #cpu, #disk, #memory, #network, #pulseaudio, #idle_inhibitor, #backlight,#custom-updates,#custom-keyboard-layout,#custom-network_traffic ,#mpd, #temperature {
+  margin: 0px 2px;
+  padding: 0px 3px;
+  border-radius: 5px;
+  min-width: 10px;
+  background-color: transparent;
+}
+
+#custom-system,
+#custom-system1 {
+  min-width: 10px;
+}
+
+#mpd *{
+  min-width: 10px;
+  font-size: 11px;
+  font-family: JetBrainsMono;
+}
+
+#custom-recorder, #custom-audiorec {
+  margin: 4px 2px;
+  padding: 0 3px;
+  background-color: rgba(175,65,84,0.8);
+}
+
+#custom-launcher, #battery {
+  margin: 2px 2px 2px 2px;
+  padding: 0 3px;
+  color : #000000;
+  background-color: #a6e3a1;
+  border-radius: 2px;
+  min-width: 15px;
+  border: 2px rgba(10,180,130,1);
+}
+
+#temperature.critical {
+  color: #800020;
+}

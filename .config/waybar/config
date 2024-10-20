@@ -1,0 +1,252 @@
+{
+    "layer": "top", // Waybar at top layer
+    "position": "top", // Waybar position (top|bottom|left|right),
+    "height": 5,
+    "margin": "5 5 1 5",
+    "spacing":0,
+
+    // Choose the order of the modules
+
+  "modules-left": ["group/left"],
+    "modules-center": ["group/center"],
+    "modules-right": ["group/right"],
+ // Modules configuration
+  "hyprland/workspaces" : {
+        "on-click": "activate",
+        "active-only": false,
+        "all-outputs": true,
+        "format": "{}",
+        "format-icons": {
+      "urgent": "",
+      "active": "@",
+      "default": ""
+        },
+        "on-scroll-up": "hyprctl dispatch workspace e+1",
+        "on-scroll-down": "hyprctl dispatch workspace e-1",
+        "persistent-workspaces": {
+             "*": 3
+        }       
+    },
+    "hyprland/window": {
+        "format": "{}",
+	"icon":true,
+	"icon-size" : 20
+    },
+    "idle_inhibitor": {
+        "format": "{icon}",
+       "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        }
+    },
+    "tray": {
+        "icon-size": 20,
+        "spacing": 5
+    },
+    "cpu": {
+        "format": "󰻠 {usage}%",
+        "on-click": "kitty -e htop"
+    },
+    "memory": {
+        "format": "🖴 {: >3}%",
+        "on-click": "kitty -e htop"
+    },
+    "temperature": {
+        "thermal-zone": 7,  // Check with: # cat /sys/class/hwmon/hwmon*/temp1_input
+        "hwmon-path": "/sys/class/hwmon/hwmon7/temp1_input",
+        "critical-threshold": 80,
+        "format-critical": "{temperatureC}°C ",
+        "format": "{temperatureC}°C "
+    },
+    "backlight": {
+        // "device": "acpi_video1",
+        "format": "{icon}",
+        "tooltip-format": "{icon}{percent: >3}%",
+        "format-icons": " ",
+        "on-scroll-down": "brightnessctl -c backlight set 1%-",
+        "on-scroll-up": "brightnessctl -c backlight set +1%",
+        "on-click": "~/.config/waybar/scripts/backlight-hint.sh"
+    },
+    "battery": {
+        "states": {
+            // "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon} {capacity}%",
+        "format-charging": "{icon} {capacity}%",
+        "format-plugged": "{icon} {capacity}%",
+        "format-icons": ["", "", "", "", ""] ,
+        // "format-good": "", // An empty format will hide the module
+        // "format-full": "",
+        //"format-icons": ["", "", "", "", "", ""],
+        //"format": "&#x202b;{icon}&#x202c; {capacity}%",
+        //"format-icons": ["ﱉ","ﱊ","ﱌ","ﱍ","ﱋ"],
+        "on-click": "nwgbar"
+    },
+      "network": {
+        //"interface": "wlp0s20f3", // (Optional) To force the use of this interface  "format-wifi": "  {essid}",
+        "format": "⚠Disabled",
+        "format-wifi": " ",
+        "format-ethernet": "",
+        "format-linked": "{ifname} (No IP)",
+        "format-disconnected": "⚠Disabled",
+        "family": "ipv4",
+        "tooltip-format-wifi": "  {ifname} @ {essid}\nIP: {ipaddr}\nStrength: {signalStrength}%\nFreq: {frequency}MHz\nUp: {bandwidthUpBits} Down: {bandwidthDownBits}",
+        "tooltip-format-ethernet": " {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
+        //"min-length": 2,
+        //"max-length": 2,
+        "on-click": "nm-connection-editor"
+    },
+   "custom/updates": {
+       "format": "{} {icon}",
+       "return-type": "json",
+       "format-icons": {
+           "has-updates": "󱍷",
+           "updated": "󰂪",
+        "interval": 7200,
+       },
+       "exec-if": "which waybar-module-pacman-updates",
+       "exec": "waybar-module-pacman-updates",
+       "on-click": "kitty -e update"
+   },
+    "group/hardware": {
+        "orientation": "inherit",
+        "drawer": {
+            "transition-duration": 300,
+            "children-class": "not-memory",
+            "transition-left-to-right": true
+        },        
+        "modules": [
+            "custom/system1",
+            "cpu",
+            "memory",
+            "custom/updates",
+            "custom/keyboard-layout"
+        ]  
+    },
+    "group/tr": {
+        "orientation": "inherit",
+        "drawer": {
+            "transition-duration": 300,
+            "children-class": "not-memory",
+            "transition-left-to-right": false
+        },        
+        "modules": [
+            "custom/system",
+            "tray",
+
+        ]  
+    },
+    "group/left": {
+        "orientation": "horizontal",
+        "modules": ["custom/launcher", "hyprland/workspaces", "group/hardware"]
+    },
+    "group/center": {
+        "orientation": "horizontal",
+        "modules": [ "clock"]
+    },
+    "group/right": {
+        "orientation": "horizontal",
+        "modules": ["group/tr", "backlight", "pulseaudio", "network", "battery"]
+    },
+    "custom/system": {
+        "format": " ",
+        "tooltip": false
+    },
+    "custom/system1": {
+        "format": "",
+        "tooltip": false
+    },
+   "custom/keyboard-layout": {
+      	"format": "", // Icon: keyboard
+        "on-click": "~/.local/bin/keyhint.sh",
+     },
+    "custom/launcher": {
+    "format":" Apps",
+    	"on-click": "exec .config/rofi/launchers/type-1/launcher.sh",
+    	"tooltip": false,
+     },
+     "clock": {
+        "format": "{:%I:%M %p}",
+        "tooltip-format": "<tt><small>{calendar}</small></tt>",
+        "calendar": {
+            "format": {
+                "months": "<span color='#ffead3'><b>{}</b></span>",
+                "days": "<span color='#ecc6d9'><b>{}</b></span>",
+                "weeks": "<span color='#99ffdd'><b>W{}</b></span>",
+                "weekdays": "<span color='#ffcc66'><b>{}</b></span>",
+                "today": "<span color='#ff6699'><b><u>{}</u></b></span>"
+            }
+        },
+        "actions": {
+            "on-click-right": "mode",
+            "on-click-forward": "tz_up",
+            "on-click-backward": "tz_down",
+            "on-scroll-up": "shift_up",
+            "on-scroll-down": "shift_down"
+        }
+    },
+     "custom/network_traffic": {
+             "exec": "~/.config/waybar/scripts/network_traffic.sh",
+             "return-type": "json",
+             "format-ethernet": "{icon} {ifname} ⇣{bandwidthDownBytes}⇡{bandwidthUpBytes}",    // optional
+    },
+    "cava": {
+      //"cava_config": "/home/sentience/.config/cava/config",
+      "autosens": 1,
+      "bar_delimiter": 0,
+      "bars": 20,
+      "format-icons": [
+        "<span foreground='#62AEEF'>⠀</span>",
+        "<span foreground='#62AEEF'>⣀</span>",
+        "<span foreground='#62AEEF'>⣠</span>",
+        "<span foreground='#62AEEF'>⣤</span>",
+        "<span foreground='#62AEEF'>⣴</span>",
+        "<span foreground='#62AEEF'>⣶</span>",
+        "<span foreground='#62AEEF'>⣾</span>",
+        "<span foreground='#62AEEF'>⣿</span>"
+      ],
+      "framerate": 60,
+      "higher_cutoff_freq": 10000,
+      "input_delay": 0,
+      "lower_cutoff_freq": 50,
+      "method": "pipewire",
+      "monstercat": false,
+      "reverse": false,
+      "source": "auto",
+      "stereo": true,
+      "waves": false
+    },
+    "pulseaudio": {
+        "scroll-step": 1, // %, can be a float
+        "format": "{icon}",
+        ".hover-format": "{icon} {volume}%",
+        "tooltip-format": "{icon} {volume}%",
+        "format-bluetooth": "  ",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        //"format-source": "{volume}% ",
+        //"format-source-muted": "",
+        "format-source": "",
+        "format-source-muted": "",
+        "format-icons": {
+            "headphone": " ",
+            "hands-free": " ",
+            "headset": " ",
+            "phone": " ",
+            "portable": " ",
+            "car": "",
+            "default": ["", "", " "]
+        },
+        "on-click": "pavucontrol",
+        "on-click-right": "pactl set-source-mute @DEFAULT_SOURCE@ toggle"
+        },
+        // https://github.com/chubin/wttr.in
+        "custom/weather": {
+        "exec": "curl 'https://wttr.in/?format=1'",
+        "interval": 900,
+	    "on-click": "yad --html --uri='https://wttr.in/' --center --fixed --width=1000 --height=680 --timeout=60 --timeout-indicator=right"
+        // Please don't change it to any special location, let the user do it by themselves 
+        },
+    }
