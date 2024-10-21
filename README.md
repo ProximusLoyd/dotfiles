@@ -9,7 +9,7 @@ Here, you can find 3 things in dotfiles
 
 2 zsh & bash -rc files
 
-3 wallpapers[only 2] in wall.zip [I borrowed em from typecraft walls]
+3 wallpapers[only 2] in walls [I borrowed em from typecraft walls]
 
 
 
