@@ -1,3 +1,4 @@
+
 ## Path section
 # Set $PATH if ~/.local/bin exist
 if [ -d "$HOME/.local/bin" ]; then
@@ -12,26 +13,6 @@ function set_win_title(){
 precmd_functions+=(set_win_title)
 
 source <(fzf --zsh)
-## Plugins section: Enable fish style features
-# Use syntax highlighting
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-# Use autosuggestion
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-
-# Use history substring search
-source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
-
-# Use fzf
-source /usr/share/fzf/key-bindings.zsh
-source /usr/share/fzf/completion.zsh
-
-# Arch Linux command-not-found support, you must have package pkgfile installed
-# https://wiki.archlinux.org/index.php/Pkgfile#.22Command_not_found.22_hook
-[[ -e /usr/share/doc/pkgfile/command-not-found.zsh ]] && source /usr/share/doc/pkgfile/command-not-found.zsh
-
-# Advanced command-not-found hook
-[[ -e /usr/share/doc/find-the-command/ftc.zsh ]] && source /usr/share/doc/find-the-command/ftc.zsh
 
 
 ## Options section
@@ -72,7 +53,7 @@ HISTFILE=~/.zhistory
 HISTSIZE=50000
 SAVEHIST=10000
 
-## Useful aliases
+#Useful aliases
 
 # Replace ls with exa
 alias ls='exa -al --color=always --group-directories-first --icons' # preferred listing
@@ -87,7 +68,7 @@ alias cat='bat --style header --style snip --style changes --style header'
 
 # Common use
 alias grubup="sudo update-grub"
-alias fix-pacman="sudo rm /var/lib/pacman/db.lck"
+alias fixpacman="sudo rm /var/lib/pacman/db.lck"
 alias tarnow='tar -acf '
 alias untar='tar -zxvf '
 alias wget='wget -c '
@@ -110,21 +91,9 @@ alias hw='hwinfo --short'                          # Hardware Info
 alias big="expac -H M '%m\t%n' | sort -h | nl"     # Sort installed packages according to size in MB (expac must be installed)
 alias gitpkg='pacman -Q | grep -i "\-git" | wc -l' # List amount of -git packages
 alias ip='ip -color'
-
-# Get fastest mirrors
-alias mirror="sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist"
-alias mirrord="sudo reflector --latest 50 --number 20 --sort delay --save /etc/pacman.d/mirrorlist"
-alias mirrors="sudo reflector --latest 50 --number 20 --sort score --save /etc/pacman.d/mirrorlist"
-alias mirrora="sudo reflector --latest 50 --number 20 --sort age --save /etc/pacman.d/mirrorlist"
-
-# Help people new to Arch
-alias please='sudo'
 alias tb='nc termbin.com 9999'
 alias helpme='cht.sh --shell'
 alias pacdiff='sudo -H DIFFPROG=meld pacdiff'
-
-# Cleanup orphaned packages
-alias cleanup='sudo pacman -Rns $(pacman -Qtdq)'
 
 # Get the error messages from journalctl
 alias jctl="journalctl -p 3 -xb"
@@ -134,13 +103,6 @@ alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
 
 # Load zoxide
 eval "$(zoxide init --cmd cd zsh)"
-
-# Load Mcfly
-export MCFLY_FUZZY=true
-export MCFLY_RESULTS=20
-export MCFLY_INTERFACE_VIEW=BOTTOM
-export MCFLY_RESULTS_SORT=LAST_RUN
-eval "$(mcfly init zsh)"
 
 ## Run neofetch
 neofetch
