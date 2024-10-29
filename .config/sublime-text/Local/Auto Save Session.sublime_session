@@ -1,0 +1,689 @@
+{
+	"file_history":
+	[
+		"/home/haruno/.config/hypr/hyprland.conf",
+		"/home/haruno/.config/waybar/style.css",
+		"/home/haruno/.config/waybar/config",
+		"/home/haruno/.config/hypr/settings/manual_settings.conf",
+		"/home/haruno/.config/dunst/dunstrc",
+		"/home/haruno/archcraft.db",
+		"/home/haruno/.zshrc",
+		"/home/haruno/.config/kitty/kitty.conf",
+		"/home/haruno/.config/hypr/hyprstart",
+		"/home/haruno/ドキュメント/GitHub/dotfiles/.config/kitty/kitty.conf.bak",
+		"/etc/pacman.d/archcraft.db",
+		"/usr/share/zsh/site-functions/_brew_cask",
+		"/home/haruno/.config/rofi/colors/black.rasi",
+		"/home/haruno/dotfiles/.config/hypr/settings/manual_settings.conf",
+		"/home/haruno/.config/sublime-text/Packages/Enki Theme/scheme/Enki-Tokyo-Night.tmTheme",
+		"/home/haruno/.config/sublime-text/Packages/User/Enki-Tokyo-Night.sublime-color-scheme",
+		"/home/haruno/.config/sublime-text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/home/haruno/.config/sublime-text/Packages/User/Mariana.sublime-color-scheme",
+		"/home/haruno/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/haruno/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/haruno/archcraft-plymouth-theme-1.0-5-any.pkg.tar.zst"
+	],
+	"folder_history":
+	[
+		"/home/haruno/ドキュメント/GitHub/dotfiles",
+		"/home/haruno"
+	],
+	"last_version": 4180,
+	"last_window_id": 5,
+	"log_indexing": false,
+	"next_update_check": 1730168982,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 513.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			485.0,
+			63.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/haruno/.config/hypr/hyprstart",
+				"/home/haruno/.config/hypr/hyprland.conf",
+				"/home/haruno/.config/waybar/style.css",
+				"/home/haruno/.config/waybar/config",
+				"/home/haruno/.config/hypr/settings/manual_settings.conf",
+				"/home/haruno/.config/dunst/dunstrc",
+				"/home/haruno/archcraft.db",
+				"/home/haruno/.zshrc",
+				"/home/haruno/.config/kitty/kitty.conf",
+				"/etc/pacman.d/archcraft.db",
+				"/usr/share/zsh/site-functions/_brew_cask",
+				"/home/haruno/.config/rofi/colors/black.rasi",
+				"/home/haruno/dotfiles/.config/hypr/settings/manual_settings.conf",
+				"/home/haruno/archcraft-plymouth-theme-1.0-5-any.pkg.tar.zst"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"konsole"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"kitty"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 470.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/haruno/ドキュメント/GitHub/dotfiles/.zshrc",
+					"settings":
+					{
+						"buffer_size": 4623,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							2,
+							1,
+							"paste",
+							null,
+							"AgAAAAAAAAAAAAAADxIAAAAAAAAAAAAADxIAAAAAAAAPEgAAAAAAACoYAAAjIyBQYXRoIHNlY3Rpb24KIyBTZXQgJFBBVEggaWYgfi8ubG9jYWwvYmluIGV4aXN0CmlmIFsgLWQgIiRIT01FLy5sb2NhbC9iaW4iIF07IHRoZW4KICAgIGV4cG9ydCBQQVRIPSRIT01FLy5sb2NhbC9iaW46JFBBVEgKZmkKCmV2YWwgJCh0aGVmdWNrIC0tYWxpYXMpCmV2YWwgIiQoc3RhcnNoaXAgaW5pdCB6c2gpIgpmdW5jdGlvbiBzZXRfd2luX3RpdGxlKCl7CiAgICBlY2hvIC1uZSAiXDAzM10wOyAkVVNFUkAkSE9TVDoke1BXRC8kSE9NRS9+fSBcMDA3Igp9CnByZWNtZF9mdW5jdGlvbnMrPShzZXRfd2luX3RpdGxlKQoKc291cmNlIDwoZnpmIC0tenNoKQojIyBQbHVnaW5zIHNlY3Rpb246IEVuYWJsZSBmaXNoIHN0eWxlIGZlYXR1cmVzCiMgVXNlIHN5bnRheCBoaWdobGlnaHRpbmcKc291cmNlIC91c3Ivc2hhcmUvenNoL3BsdWdpbnMvenNoLXN5bnRheC1oaWdobGlnaHRpbmcvenNoLXN5bnRheC1oaWdobGlnaHRpbmcuenNoCgojIFVzZSBhdXRvc3VnZ2VzdGlvbgpzb3VyY2UgL3Vzci9zaGFyZS96c2gvcGx1Z2lucy96c2gtYXV0b3N1Z2dlc3Rpb25zL3pzaC1hdXRvc3VnZ2VzdGlvbnMuenNoCgojIFVzZSBoaXN0b3J5IHN1YnN0cmluZyBzZWFyY2gKc291cmNlIC91c3Ivc2hhcmUvenNoL3BsdWdpbnMvenNoLWhpc3Rvcnktc3Vic3RyaW5nLXNlYXJjaC96c2gtaGlzdG9yeS1zdWJzdHJpbmctc2VhcmNoLnpzaAoKIyBVc2UgZnpmCnNvdXJjZSAvdXNyL3NoYXJlL2Z6Zi9rZXktYmluZGluZ3MuenNoCnNvdXJjZSAvdXNyL3NoYXJlL2Z6Zi9jb21wbGV0aW9uLnpzaAoKIyBBcmNoIExpbnV4IGNvbW1hbmQtbm90LWZvdW5kIHN1cHBvcnQsIHlvdSBtdXN0IGhhdmUgcGFja2FnZSBwa2dmaWxlIGluc3RhbGxlZAojIGh0dHBzOi8vd2lraS5hcmNobGludXgub3JnL2luZGV4LnBocC9Qa2dmaWxlIy4yMkNvbW1hbmRfbm90X2ZvdW5kLjIyX2hvb2sKW1sgLWUgL3Vzci9zaGFyZS9kb2MvcGtnZmlsZS9jb21tYW5kLW5vdC1mb3VuZC56c2ggXV0gJiYgc291cmNlIC91c3Ivc2hhcmUvZG9jL3BrZ2ZpbGUvY29tbWFuZC1ub3QtZm91bmQuenNoCgojIEFkdmFuY2VkIGNvbW1hbmQtbm90LWZvdW5kIGhvb2sKW1sgLWUgL3Vzci9zaGFyZS9kb2MvZmluZC10aGUtY29tbWFuZC9mdGMuenNoIF1dICYmIHNvdXJjZSAvdXNyL3NoYXJlL2RvYy9maW5kLXRoZS1jb21tYW5kL2Z0Yy56c2gKCgojIyBPcHRpb25zIHNlY3Rpb24Kc2V0b3B0IGNvcnJlY3QgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgQXV0byBjb3JyZWN0IG1pc3Rha2VzCnNldG9wdCBleHRlbmRlZGdsb2IgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIEV4dGVuZGVkIGdsb2JiaW5nLiBBbGxvd3MgdXNpbmcgcmVndWxhciBleHByZXNzaW9ucyB3aXRoICoKc2V0b3B0IG5vY2FzZWdsb2IgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgQ2FzZSBpbnNlbnNpdGl2ZSBnbG9iYmluZwpzZXRvcHQgcmNleHBhbmRwYXJhbSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBBcnJheSBleHBlbnNpb24gd2l0aCBwYXJhbWV0ZXJzCnNldG9wdCBub2NoZWNram9icyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIERvbid0IHdhcm4gYWJvdXQgcnVubmluZyBwcm9jZXNzZXMgd2hlbiBleGl0aW5nCnNldG9wdCBudW1lcmljZ2xvYnNvcnQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIFNvcnQgZmlsZW5hbWVzIG51bWVyaWNhbGx5IHdoZW4gaXQgbWFrZXMgc2Vuc2UKc2V0b3B0IG5vYmVlcCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgTm8gYmVlcApzZXRvcHQgYXBwZW5kaGlzdG9yeSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBJbW1lZGlhdGVseSBhcHBlbmQgaGlzdG9yeSBpbnN0ZWFkIG9mIG92ZXJ3cml0aW5nCnNldG9wdCBoaXN0aWdub3JlYWxsZHVwcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIElmIGEgbmV3IGNvbW1hbmQgaXMgYSBkdXBsaWNhdGUsIHJlbW92ZSB0aGUgb2xkZXIgb25lCnNldG9wdCBhdXRvY2QgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIGlmIG9ubHkgZGlyZWN0b3J5IHBhdGggaXMgZW50ZXJlZCwgY2QgdGhlcmUuCnNldG9wdCBhdXRvX3B1c2hkCnNldG9wdCBwdXNoZF9pZ25vcmVfZHVwcwpzZXRvcHQgcHVzaGRtaW51cwoKIyBDb21wbGV0aW9uLgphdXRvbG9hZCAtVXogY29tcGluaXQKY29tcGluaXQKenN0eWxlICc6Y29tcGxldGlvbjoqJyBtYXRjaGVyLWxpc3QgJ206e2EtekEtWn09e0EtWmEten0nICAgICAgICMgQ2FzZSBpbnNlbnNpdGl2ZSB0YWIgY29tcGxldGlvbgp6c3R5bGUgJzpjb21wbGV0aW9uOionIHJlaGFzaCB0cnVlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyBhdXRvbWF0aWNhbGx5IGZpbmQgbmV3IGV4ZWN1dGFibGVzIGluIHBhdGggCnpzdHlsZSAnOmNvbXBsZXRpb246KicgbGlzdC1jb2xvcnMgIiR7KHMuOi4pTFNfQ09MT1JTfSIgICAgICAgICAjIENvbG9yZWQgY29tcGxldGlvbiAoZGlmZmVyZW50IGNvbG9ycyBmb3IgZGlycy9maWxlcy9ldGMpCnpzdHlsZSAnOmNvbXBsZXRpb246KicgY29tcGxldGVyIF9leHBhbmQgX2NvbXBsZXRlIF9pZ25vcmVkIF9hcHByb3hpbWF0ZQp6c3R5bGUgJzpjb21wbGV0aW9uOionIG1lbnUgc2VsZWN0CnpzdHlsZSAnOmNvbXBsZXRpb246Kicgc2VsZWN0LXByb21wdCAnJVNTY3JvbGxpbmcgYWN0aXZlOiBjdXJyZW50IHNlbGVjdGlvbiBhdCAlcCVzJwp6c3R5bGUgJzpjb21wbGV0aW9uOio6ZGVzY3JpcHRpb25zJyBmb3JtYXQgJyVVJUZ7Y3lhbn0lZCVmJXUnCgojIFNwZWVkIHVwIGNvbXBsZXRpb25zCnpzdHlsZSAnOmNvbXBsZXRpb246KicgYWNjZXB0LWV4YWN0ICcqKE4pJwp6c3R5bGUgJzpjb21wbGV0aW9uOionIHVzZS1jYWNoZSBvbgp6c3R5bGUgJzpjb21wbGV0aW9uOionIGNhY2hlLXBhdGggfi8uY2FjaGUvemNhY2hlCgojIGF1dG9tYXRpY2FsbHkgbG9hZCBiYXNoIGNvbXBsZXRpb24gZnVuY3Rpb25zCmF1dG9sb2FkIC1VICtYIGJhc2hjb21waW5pdCAmJiBiYXNoY29tcGluaXQKCkhJU1RGSUxFPX4vLnpoaXN0b3J5CkhJU1RTSVpFPTUwMDAwClNBVkVISVNUPTEwMDAwCgojIyBVc2VmdWwgYWxpYXNlcwoKIyBSZXBsYWNlIGxzIHdpdGggZXhhCmFsaWFzIGxzPSdleGEgLWFsIC0tY29sb3I9YWx3YXlzIC0tZ3JvdXAtZGlyZWN0b3JpZXMtZmlyc3QgLS1pY29ucycgIyBwcmVmZXJyZWQgbGlzdGluZwphbGlhcyBsYT0nZXhhIC1hIC0tY29sb3I9YWx3YXlzIC0tZ3JvdXAtZGlyZWN0b3JpZXMtZmlyc3QgLS1pY29ucycgICMgYWxsIGZpbGVzIGFuZCBkaXJzCmFsaWFzIGxsPSdleGEgLWwgLS1jb2xvcj1hbHdheXMgLS1ncm91cC1kaXJlY3Rvcmllcy1maXJzdCAtLWljb25zJyAgIyBsb25nIGZvcm1hdAphbGlhcyBsdD0nZXhhIC1hVCAtLWNvbG9yPWFsd2F5cyAtLWdyb3VwLWRpcmVjdG9yaWVzLWZpcnN0IC0taWNvbnMnICMgdHJlZSBsaXN0aW5nCmFsaWFzIGwuPSdleGEgLWFsZCAtLWNvbG9yPWFsd2F5cyAtLWdyb3VwLWRpcmVjdG9yaWVzLWZpcnN0IC0taWNvbnMgLionICMgc2hvdyBvbmx5IGRvdGZpbGVzCgojIFJlcGxhY2Ugc29tZSBtb3JlIHRoaW5ncyB3aXRoIGJldHRlciBhbHRlcm5hdGl2ZXMKYWxpYXMgY2F0PSdiYXQgLS1zdHlsZSBoZWFkZXIgLS1zdHlsZSBzbmlwIC0tc3R5bGUgY2hhbmdlcyAtLXN0eWxlIGhlYWRlcicKWyAhIC14IC91c3IvYmluL3lheSBdICYmIFsgLXggL3Vzci9iaW4vcGFydSBdICYmIGFsaWFzIHlheT0ncGFydScKCiMgQ29tbW9uIHVzZQphbGlhcyBncnVidXA9InN1ZG8gdXBkYXRlLWdydWIiCmFsaWFzIGZpeC1wYWNtYW49InN1ZG8gcm0gL3Zhci9saWIvcGFjbWFuL2RiLmxjayIKYWxpYXMgdGFybm93PSd0YXIgLWFjZiAnCmFsaWFzIHVudGFyPSd0YXIgLXp4dmYgJwphbGlhcyB3Z2V0PSd3Z2V0IC1jICcKYWxpYXMgcm1wa2c9InN1ZG8gcGFjbWFuIC1SZGQiCmFsaWFzIHBzbWVtPSdwcyBhdXhmIHwgc29ydCAtbnIgLWsgNCcKYWxpYXMgcHNtZW0xMD0ncHMgYXV4ZiB8IHNvcnQgLW5yIC1rIDQgfCBoZWFkIC0xMCcKYWxpYXMgdXBkPScvdXNyL2Jpbi9nYXJ1ZGEtdXBkYXRlJwphbGlhcyBhcmMtdXBkYXRlPScvdXNyL2Jpbi9nYXJ1ZGEtdXBkYXRlJwphbGlhcyAuLj0nY2QgLi4nCmFsaWFzIC4uLj0nY2QgLi4vLi4nCmFsaWFzIC4uLi49J2NkIC4uLy4uLy4uJwphbGlhcyAuLi4uLj0nY2QgLi4vLi4vLi4vLi4nCmFsaWFzIC4uLi4uLj0nY2QgLi4vLi4vLi4vLi4vLi4nCmFsaWFzIGRpcj0nZGlyIC0tY29sb3I9YXV0bycKYWxpYXMgdmRpcj0ndmRpciAtLWNvbG9yPWF1dG8nCmFsaWFzIGdyZXA9J3VncmVwIC0tY29sb3I9YXV0bycKYWxpYXMgZmdyZXA9J3VncmVwIC1GIC0tY29sb3I9YXV0bycKYWxpYXMgZWdyZXA9J3VncmVwIC1FIC0tY29sb3I9YXV0bycKYWxpYXMgaHc9J2h3aW5mbyAtLXNob3J0JyAgICAgICAgICAgICAgICAgICAgICAgICAgIyBIYXJkd2FyZSBJbmZvCmFsaWFzIGJpZz0iZXhwYWMgLUggTSAnJW1cdCVuJyB8IHNvcnQgLWggfCBubCIgICAgICMgU29ydCBpbnN0YWxsZWQgcGFja2FnZXMgYWNjb3JkaW5nIHRvIHNpemUgaW4gTUIgKGV4cGFjIG11c3QgYmUgaW5zdGFsbGVkKQphbGlhcyBnaXRwa2c9J3BhY21hbiAtUSB8IGdyZXAgLWkgIlwtZ2l0IiB8IHdjIC1sJyAjIExpc3QgYW1vdW50IG9mIC1naXQgcGFja2FnZXMKYWxpYXMgaXA9J2lwIC1jb2xvcicKCiMgR2V0IGZhc3Rlc3QgbWlycm9ycwphbGlhcyBtaXJyb3I9InN1ZG8gcmVmbGVjdG9yIC1mIDMwIC1sIDMwIC0tbnVtYmVyIDEwIC0tdmVyYm9zZSAtLXNhdmUgL2V0Yy9wYWNtYW4uZC9taXJyb3JsaXN0IgphbGlhcyBtaXJyb3JkPSJzdWRvIHJlZmxlY3RvciAtLWxhdGVzdCA1MCAtLW51bWJlciAyMCAtLXNvcnQgZGVsYXkgLS1zYXZlIC9ldGMvcGFjbWFuLmQvbWlycm9ybGlzdCIKYWxpYXMgbWlycm9ycz0ic3VkbyByZWZsZWN0b3IgLS1sYXRlc3QgNTAgLS1udW1iZXIgMjAgLS1zb3J0IHNjb3JlIC0tc2F2ZSAvZXRjL3BhY21hbi5kL21pcnJvcmxpc3QiCmFsaWFzIG1pcnJvcmE9InN1ZG8gcmVmbGVjdG9yIC0tbGF0ZXN0IDUwIC0tbnVtYmVyIDIwIC0tc29ydCBhZ2UgLS1zYXZlIC9ldGMvcGFjbWFuLmQvbWlycm9ybGlzdCIKCiMgSGVscCBwZW9wbGUgbmV3IHRvIEFyY2gKYWxpYXMgcGxlYXNlPSdzdWRvJwphbGlhcyB0Yj0nbmMgdGVybWJpbi5jb20gOTk5OScKYWxpYXMgaGVscG1lPSdjaHQuc2ggLS1zaGVsbCcKYWxpYXMgcGFjZGlmZj0nc3VkbyAtSCBESUZGUFJPRz1tZWxkIHBhY2RpZmYnCgojIENsZWFudXAgb3JwaGFuZWQgcGFja2FnZXMKYWxpYXMgY2xlYW51cD0nc3VkbyBwYWNtYW4gLVJucyAkKHBhY21hbiAtUXRkcSknCgojIEdldCB0aGUgZXJyb3IgbWVzc2FnZXMgZnJvbSBqb3VybmFsY3RsCmFsaWFzIGpjdGw9ImpvdXJuYWxjdGwgLXAgMyAteGIiCgojIFJlY2VudCBpbnN0YWxsZWQgcGFja2FnZXMKYWxpYXMgcmlwPSJleHBhYyAtLXRpbWVmbXQ9JyVZLSVtLSVkICVUJyAnJWxcdCVuICV2JyB8IHNvcnQgfCB0YWlsIC0yMDAgfCBubCIKCiMgTG9hZCB6b3hpZGUKZXZhbCAiJCh6b3hpZGUgaW5pdCAtLWNtZCBjZCB6c2gpIgoKIyBMb2FkIE1jZmx5CmV4cG9ydCBNQ0ZMWV9GVVpaWT10cnVlCmV4cG9ydCBNQ0ZMWV9SRVNVTFRTPTIwCmV4cG9ydCBNQ0ZMWV9JTlRFUkZBQ0VfVklFVz1CT1RUT00KZXhwb3J0IE1DRkxZX1JFU1VMVFNfU09SVD1MQVNUX1JVTgpldmFsICIkKG1jZmx5IGluaXQgenNoKSIKCiMjIFJ1biBuZW9mZXRjaApuZW9mZXRjaApldmFsICIkKC9ob21lL2xpbnV4YnJldy8ubGludXhicmV3L2Jpbi9icmV3IHNoZWxsZW52KSIKCi4gIiRIT01FLy5hdHVpbi9iaW4vZW52IgoKZXZhbCAiJChhdHVpbiBpbml0IHpzaCkiCgp0ZXN0IC1lICIke0hPTUV9Ly5pdGVybTJfc2hlbGxfaW50ZWdyYXRpb24uenNoIiAmJiBzb3VyY2UgIiR7SE9NRX0vLml0ZXJtMl9zaGVsbF9pbnRlZ3JhdGlvbi56c2giIHx8IHRydWUKCgpleHBvcnQgUEFUSD0kUEFUSDovaG9tZS9oYXJ1bm8vLnNwaWNldGlmeQo",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAqGAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/haruno/ドキュメント/GitHub/dotfiles/.bashrc",
+					"settings":
+					{
+						"buffer_size": 2930,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							36,
+							"left_delete",
+							null,
+							"JAAAAOUKAAAAAAAA5QoAAAAAAAABAAAACuQKAAAAAAAA5AoAAAAAAAABAAAAJ+MKAAAAAAAA4woAAAAAAAABAAAAZuIKAAAAAAAA4goAAAAAAAABAAAAZuEKAAAAAAAA4QoAAAAAAAABAAAAaeAKAAAAAAAA4AoAAAAAAAABAAAAZN8KAAAAAAAA3woAAAAAAAABAAAAY94KAAAAAAAA3goAAAAAAAABAAAAYd0KAAAAAAAA3QoAAAAAAAABAAAAcNwKAAAAAAAA3AoAAAAAAAABAAAAINsKAAAAAAAA2woAAAAAAAABAAAAZNoKAAAAAAAA2goAAAAAAAABAAAAbNkKAAAAAAAA2QoAAAAAAAABAAAAZdgKAAAAAAAA2AoAAAAAAAABAAAAbdcKAAAAAAAA1woAAAAAAAABAAAAPdYKAAAAAAAA1goAAAAAAAABAAAAR9UKAAAAAAAA1QoAAAAAAAABAAAAT9QKAAAAAAAA1AoAAAAAAAABAAAAUtMKAAAAAAAA0woAAAAAAAABAAAAUNIKAAAAAAAA0goAAAAAAAABAAAARtEKAAAAAAAA0QoAAAAAAAABAAAARtAKAAAAAAAA0AoAAAAAAAABAAAASc8KAAAAAAAAzwoAAAAAAAABAAAARM4KAAAAAAAAzgoAAAAAAAABAAAAIM0KAAAAAAAAzQoAAAAAAAABAAAASMwKAAAAAAAAzAoAAAAAAAABAAAALcsKAAAAAAAAywoAAAAAAAABAAAAIMoKAAAAAAAAygoAAAAAAAABAAAAb8kKAAAAAAAAyQoAAAAAAAABAAAAZMgKAAAAAAAAyAoAAAAAAAABAAAAdccKAAAAAAAAxwoAAAAAAAABAAAAc8YKAAAAAAAAxgoAAAAAAAABAAAAJ8UKAAAAAAAAxQoAAAAAAAABAAAAPcQKAAAAAAAAxAoAAAAAAAABAAAAZsMKAAAAAAAAwwoAAAAAAAABAAAAZsIKAAAAAAAAwgoAAAAAAAABAAAAaQ",
+							"AQAAAAAAAAABAAAA5goAAAAAAADmCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							50,
+							"left_delete",
+							null,
+							"MgAAAMEKAAAAAAAAwQoAAAAAAAABAAAAZMAKAAAAAAAAwAoAAAAAAAABAAAAY78KAAAAAAAAvwoAAAAAAAABAAAAYb4KAAAAAAAAvgoAAAAAAAABAAAAcL0KAAAAAAAAvQoAAAAAAAABAAAAILwKAAAAAAAAvAoAAAAAAAABAAAAc7sKAAAAAAAAuwoAAAAAAAABAAAAYboKAAAAAAAAugoAAAAAAAABAAAAabkKAAAAAAAAuQoAAAAAAAABAAAAbLgKAAAAAAAAuAoAAAAAAAABAAAAYbcKAAAAAAAAtwoAAAAAAAABAAAACrYKAAAAAAAAtgoAAAAAAAABAAAAJ7UKAAAAAAAAtQoAAAAAAAABAAAAbLQKAAAAAAAAtAoAAAAAAAABAAAAbLMKAAAAAAAAswoAAAAAAAABAAAAZbIKAAAAAAAAsgoAAAAAAAABAAAAaLEKAAAAAAAAsQoAAAAAAAABAAAAc7AKAAAAAAAAsAoAAAAAAAABAAAALa8KAAAAAAAArwoAAAAAAAABAAAALa4KAAAAAAAArgoAAAAAAAABAAAAIK0KAAAAAAAArQoAAAAAAAABAAAAaKwKAAAAAAAArAoAAAAAAAABAAAAc6sKAAAAAAAAqwoAAAAAAAABAAAALqoKAAAAAAAAqgoAAAAAAAABAAAAdKkKAAAAAAAAqQoAAAAAAAABAAAAaKgKAAAAAAAAqAoAAAAAAAABAAAAY6cKAAAAAAAApwoAAAAAAAABAAAAJ6YKAAAAAAAApgoAAAAAAAABAAAAPaUKAAAAAAAApQoAAAAAAAABAAAAZaQKAAAAAAAApAoAAAAAAAABAAAAbaMKAAAAAAAAowoAAAAAAAABAAAAcKIKAAAAAAAAogoAAAAAAAABAAAAbKEKAAAAAAAAoQoAAAAAAAABAAAAZaAKAAAAAAAAoAoAAAAAAAABAAAAaJ8KAAAAAAAAnwoAAAAAAAABAAAAIJ4KAAAAAAAAngoAAAAAAAABAAAAc50KAAAAAAAAnQoAAAAAAAABAAAAYZwKAAAAAAAAnAoAAAAAAAABAAAAaZsKAAAAAAAAmwoAAAAAAAABAAAAbJoKAAAAAAAAmgoAAAAAAAABAAAAYZkKAAAAAAAAmQoAAAAAAAABAAAACpgKAAAAAAAAmAoAAAAAAAABAAAAJ5cKAAAAAAAAlwoAAAAAAAABAAAAOZYKAAAAAAAAlgoAAAAAAAABAAAAOZUKAAAAAAAAlQoAAAAAAAABAAAAOZQKAAAAAAAAlAoAAAAAAAABAAAAOZMKAAAAAAAAkwoAAAAAAAABAAAAIJIKAAAAAAAAkgoAAAAAAAABAAAAbZEKAAAAAAAAkQoAAAAAAAABAAAAb5AKAAAAAAAAkAoAAAAAAAABAAAAYw",
+							"AQAAAAAAAAABAAAAwgoAAAAAAADCCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							50,
+							"left_delete",
+							null,
+							"MgAAAI8KAAAAAAAAjwoAAAAAAAABAAAALo4KAAAAAAAAjgoAAAAAAAABAAAAbo0KAAAAAAAAjQoAAAAAAAABAAAAaYwKAAAAAAAAjAoAAAAAAAABAAAAYosKAAAAAAAAiwoAAAAAAAABAAAAbYoKAAAAAAAAigoAAAAAAAABAAAAcokKAAAAAAAAiQoAAAAAAAABAAAAZYgKAAAAAAAAiAoAAAAAAAABAAAAdIcKAAAAAAAAhwoAAAAAAAABAAAAIIYKAAAAAAAAhgoAAAAAAAABAAAAY4UKAAAAAAAAhQoAAAAAAAABAAAAboQKAAAAAAAAhAoAAAAAAAABAAAAJ4MKAAAAAAAAgwoAAAAAAAABAAAAPYIKAAAAAAAAggoAAAAAAAABAAAAYoEKAAAAAAAAgQoAAAAAAAABAAAAdIAKAAAAAAAAgAoAAAAAAAABAAAAIH8KAAAAAAAAfwoAAAAAAAABAAAAc34KAAAAAAAAfgoAAAAAAAABAAAAYX0KAAAAAAAAfQoAAAAAAAABAAAAaXwKAAAAAAAAfAoAAAAAAAABAAAAbHsKAAAAAAAAewoAAAAAAAABAAAAYXoKAAAAAAAAegoAAAAAAAABAAAACnkKAAAAAAAAeQoAAAAAAAABAAAAJ3gKAAAAAAAAeAoAAAAAAAABAAAAb3cKAAAAAAAAdwoAAAAAAAABAAAAZHYKAAAAAAAAdgoAAAAAAAABAAAAdXUKAAAAAAAAdQoAAAAAAAABAAAAc3QKAAAAAAAAdAoAAAAAAAABAAAAJ3MKAAAAAAAAcwoAAAAAAAABAAAAPXIKAAAAAAAAcgoAAAAAAAABAAAAZXEKAAAAAAAAcQoAAAAAAAABAAAAc3AKAAAAAAAAcAoAAAAAAAABAAAAYW8KAAAAAAAAbwoAAAAAAAABAAAAZW4KAAAAAAAAbgoAAAAAAAABAAAAbG0KAAAAAAAAbQoAAAAAAAABAAAAcGwKAAAAAAAAbAoAAAAAAAABAAAAIGsKAAAAAAAAawoAAAAAAAABAAAAc2oKAAAAAAAAagoAAAAAAAABAAAAYWkKAAAAAAAAaQoAAAAAAAABAAAAaWgKAAAAAAAAaAoAAAAAAAABAAAAbGcKAAAAAAAAZwoAAAAAAAABAAAAYWYKAAAAAAAAZgoAAAAAAAABAAAACmUKAAAAAAAAZQoAAAAAAAABAAAAJ2QKAAAAAAAAZAoAAAAAAAABAAAAbmMKAAAAAAAAYwoAAAAAAAABAAAAYWIKAAAAAAAAYgoAAAAAAAABAAAAbWEKAAAAAAAAYQoAAAAAAAABAAAAY2AKAAAAAAAAYAoAAAAAAAABAAAAYV8KAAAAAAAAXwoAAAAAAAABAAAAcF4KAAAAAAAAXgoAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAkAoAAAAAAACQCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							44,
+							"left_delete",
+							null,
+							"LAAAAF0KAAAAAAAAXQoAAAAAAAABAAAAblwKAAAAAAAAXAoAAAAAAAABAAAAYVsKAAAAAAAAWwoAAAAAAAABAAAAbVoKAAAAAAAAWgoAAAAAAAABAAAAJ1kKAAAAAAAAWQoAAAAAAAABAAAAPVgKAAAAAAAAWAoAAAAAAAABAAAAdFcKAAAAAAAAVwoAAAAAAAABAAAAZVYKAAAAAAAAVgoAAAAAAAABAAAAZ1UKAAAAAAAAVQoAAAAAAAABAAAALVQKAAAAAAAAVAoAAAAAAAABAAAAdFMKAAAAAAAAUwoAAAAAAAABAAAAcFIKAAAAAAAAUgoAAAAAAAABAAAAYVEKAAAAAAAAUQoAAAAAAAABAAAAIFAKAAAAAAAAUAoAAAAAAAABAAAAc08KAAAAAAAATwoAAAAAAAABAAAAYU4KAAAAAAAATgoAAAAAAAABAAAAaU0KAAAAAAAATQoAAAAAAAABAAAAbEwKAAAAAAAATAoAAAAAAAABAAAAYUsKAAAAAAAASwoAAAAAAAABAAAACkoKAAAAAAAASgoAAAAAAAABAAAAJ0kKAAAAAAAASQoAAAAAAAABAAAAbkgKAAAAAAAASAoAAAAAAAABAAAAYUcKAAAAAAAARwoAAAAAAAABAAAAbUYKAAAAAAAARgoAAAAAAAABAAAAY0UKAAAAAAAARQoAAAAAAAABAAAAYUQKAAAAAAAARAoAAAAAAAABAAAAcEMKAAAAAAAAQwoAAAAAAAABAAAAIEIKAAAAAAAAQgoAAAAAAAABAAAAbkEKAAAAAAAAQQoAAAAAAAABAAAAYUAKAAAAAAAAQAoAAAAAAAABAAAAbT8KAAAAAAAAPwoAAAAAAAABAAAAJz4KAAAAAAAAPgoAAAAAAAABAAAAPT0KAAAAAAAAPQoAAAAAAAABAAAAdDwKAAAAAAAAPAoAAAAAAAABAAAAcDsKAAAAAAAAOwoAAAAAAAABAAAAYToKAAAAAAAAOgoAAAAAAAABAAAAIDkKAAAAAAAAOQoAAAAAAAABAAAAczgKAAAAAAAAOAoAAAAAAAABAAAAYTcKAAAAAAAANwoAAAAAAAABAAAAaTYKAAAAAAAANgoAAAAAAAABAAAAbDUKAAAAAAAANQoAAAAAAAABAAAAYTQKAAAAAAAANAoAAAAAAAABAAAACjMKAAAAAAAAMwoAAAAAAAABAAAAaDIKAAAAAAAAMgoAAAAAAAABAAAAYw",
+							"AQAAAAAAAAABAAAAXgoAAAAAAABeCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							20,
+							"left_delete",
+							null,
+							"FAAAADEKAAAAAAAAMQoAAAAAAAABAAAAcjAKAAAAAAAAMAoAAAAAAAABAAAAQS8KAAAAAAAALwoAAAAAAAABAAAAIC4KAAAAAAAALgoAAAAAAAABAAAAby0KAAAAAAAALQoAAAAAAAABAAAAdCwKAAAAAAAALAoAAAAAAAABAAAAICsKAAAAAAAAKwoAAAAAAAABAAAAdyoKAAAAAAAAKgoAAAAAAAABAAAAZSkKAAAAAAAAKQoAAAAAAAABAAAAbigKAAAAAAAAKAoAAAAAAAABAAAAICcKAAAAAAAAJwoAAAAAAAABAAAAZSYKAAAAAAAAJgoAAAAAAAABAAAAbCUKAAAAAAAAJQoAAAAAAAABAAAAcCQKAAAAAAAAJAoAAAAAAAABAAAAbyMKAAAAAAAAIwoAAAAAAAABAAAAZSIKAAAAAAAAIgoAAAAAAAABAAAAcCEKAAAAAAAAIQoAAAAAAAABAAAAICAKAAAAAAAAIAoAAAAAAAABAAAAcB8KAAAAAAAAHwoAAAAAAAABAAAAbB4KAAAAAAAAHgoAAAAAAAABAAAAZQ",
+							"AQAAAAAAAAABAAAAMgoAAAAAAAAyCgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							4,
+							"left_delete",
+							null,
+							"BAAAAB0KAAAAAAAAHQoAAAAAAAABAAAASBwKAAAAAAAAHAoAAAAAAAABAAAAIBsKAAAAAAAAGwoAAAAAAAABAAAAIxoKAAAAAAAAGgoAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAHgoAAAAAAAAeCgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/haruno/ドキュメント/GitHub/dotfiles/.config/hypr/brain/brain.sh",
+					"settings":
+					{
+						"buffer_size": 19626,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/haruno/ドキュメント/GitHub/dotfiles/.config/nwg-drawer/drawer.css",
+					"settings":
+					{
+						"buffer_size": 717,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"file": "/home/haruno/.zshrc",
+					"settings":
+					{
+						"buffer_size": 4623,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/haruno/ドキュメント/GitHub/dotfiles",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/cava",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/cava/shaders",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/garuda",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/kitty",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/neowofetch",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/nwg-dock-hyprland",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/nwg-drawer",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/nwg-launchers",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/rofi",
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/waybar"
+			],
+			"file_history":
+			[
+				"/home/haruno/ドキュメント/GitHub/dotfiles/.config/kitty/kitty.conf.bak",
+				"/home/haruno/.config/hypr/hyprstart",
+				"/home/haruno/.config/hypr/hyprland.conf",
+				"/home/haruno/.config/waybar/style.css",
+				"/home/haruno/.config/waybar/config",
+				"/home/haruno/.config/hypr/settings/manual_settings.conf",
+				"/home/haruno/.config/dunst/dunstrc",
+				"/home/haruno/archcraft.db",
+				"/home/haruno/.zshrc",
+				"/home/haruno/.config/kitty/kitty.conf",
+				"/etc/pacman.d/archcraft.db",
+				"/usr/share/zsh/site-functions/_brew_cask",
+				"/home/haruno/.config/rofi/colors/black.rasi",
+				"/home/haruno/dotfiles/.config/hypr/settings/manual_settings.conf",
+				"/home/haruno/archcraft-plymouth-theme-1.0-5-any.pkg.tar.zst"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/haruno/ドキュメント/GitHub/dotfiles"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/haruno/ドキュメント/GitHub/dotfiles/.zshrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4623,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4623,
+										4623
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 720.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/haruno/ドキュメント/GitHub/dotfiles/.bashrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2930,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2586,
+										2586
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 525.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/haruno/ドキュメント/GitHub/dotfiles/.config/hypr/brain/brain.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19626,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5592.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/haruno/ドキュメント/GitHub/dotfiles/.config/nwg-drawer/drawer.css",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 717,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										717,
+										717
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/haruno/.zshrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4623,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										4623
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,965,37,1913,1073,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 253.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 5,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

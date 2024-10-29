@@ -1,0 +1,1244 @@
+{
+	"file_history":
+	[
+		"/etc/pacman.d/archcraft.db",
+		"/usr/share/zsh/site-functions/_brew_cask",
+		"/home/haruno/.config/kitty/kitty.conf",
+		"/home/haruno/.config/rofi/colors/black.rasi",
+		"/home/haruno/dotfiles/.config/hypr/settings/manual_settings.conf",
+		"/home/haruno/.config/sublime-text/Packages/Enki Theme/scheme/Enki-Tokyo-Night.tmTheme",
+		"/home/haruno/.config/sublime-text/Packages/User/Enki-Tokyo-Night.sublime-color-scheme",
+		"/home/haruno/.config/sublime-text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/home/haruno/.config/sublime-text/Packages/User/Mariana.sublime-color-scheme",
+		"/home/haruno/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/haruno/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/haruno/archcraft-plymouth-theme-1.0-5-any.pkg.tar.zst"
+	],
+	"folder_history":
+	[
+		"/home/haruno"
+	],
+	"last_version": 4180,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"next_update_check": 1730168982,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 525.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			26.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/haruno/.config/hypr/hyprstart",
+				"/home/haruno/.config/hypr/hyprland.conf",
+				"/home/haruno/.config/waybar/style.css",
+				"/home/haruno/.config/waybar/config",
+				"/home/haruno/.config/hypr/settings/manual_settings.conf",
+				"/home/haruno/.config/dunst/dunstrc",
+				"/home/haruno/archcraft.db",
+				"/home/haruno/.zshrc",
+				"/home/haruno/.config/kitty/kitty.conf",
+				"/etc/pacman.d/archcraft.db",
+				"/usr/share/zsh/site-functions/_brew_cask",
+				"/home/haruno/.config/rofi/colors/black.rasi",
+				"/home/haruno/dotfiles/.config/hypr/settings/manual_settings.conf",
+				"/home/haruno/archcraft-plymouth-theme-1.0-5-any.pkg.tar.zst"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"konsole"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"kitty"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 480.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/haruno/.config/kitty/kitty.conf",
+					"settings":
+					{
+						"buffer_size": 2488,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"revert",
+							null,
+							"CAAAAAAAAAAAAAAAAAAAAAAAAACjCQAACgojIEZvbnQKZm9udF9mYW1pbHkgICAgICBmYW1pbHk9SW5jb25zb2xhdGEgc3R5bGU9TGlnaHQKYm9sZF9mb250ICAgICAgICBhdXRvCml0YWxpY19mb250ICAgICAgYXV0bwpib2xkX2l0YWxpY19mb250IGF1dG8KZm9udF9zaXplIDkuNQoKIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKIyBJb3NldmthIE5lcmQgRm9udCBjb21wbGV0ZSBzeW1ib2xfbWFwCiMgZWFzaWx5IHRyb3VibGVzaG9vdCBtaXNzaW5nL2luY29ycmVjdCBjaGFyYWN0ZXJzIHdpdGg6CmtpdHR5IC0tZGVidWctZm9udC1mYWxsYmFjawojIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKIyAiTmVyZCBGb250cyAtIFBvbWljb25zIgpzeW1ib2xfbWFwICBVK0UwMDAtVStFMDBEIElvc2V2a2EgTmVyZCBGb250CgojICJOZXJkIEZvbnRzIC0gUG93ZXJsaW5lIgpzeW1ib2xfbWFwIFUrZTBhMC1VK2UwYTIsVStlMGIwLVUrZTBiMyBJb3NldmthIE5lcmQgRm9udAoKIyAiTmVyZCBGb250cyAtIFBvd2VybGluZSBFeHRyYSIKc3ltYm9sX21hcCBVK2UwYTMtVStlMGEzLFUrZTBiNC1VK2UwYzgsVStlMGNjLVUrZTBkMixVK2UwZDQtVStlMGQ0IElvc2V2a2EgTmVyZCBGb250CgojICJOZXJkIEZvbnRzIC0gU3ltYm9scyBvcmlnaW5hbCIKc3ltYm9sX21hcCBVK2U1ZmEtVStlNjJiIElvc2V2a2EgTmVyZCBGb250CgojICJOZXJkIEZvbnRzIC0gRGV2aWNvbnMiCnN5bWJvbF9tYXAgVStlNzAwLVUrZTdjNSBJb3NldmthIE5lcmQgRm9udAoKIyAiTmVyZCBGb250cyAtIEZvbnQgYXdlc29tZSIKc3ltYm9sX21hcCBVK2YwMDAtVStmMmUwIElvc2V2a2EgTmVyZCBGb250CgojICJOZXJkIEZvbnRzIC0gRm9udCBhd2Vzb21lIGV4dGVuc2lvbiIKc3ltYm9sX21hcCBVK2UyMDAtVStlMmE5IElvc2V2a2EgTmVyZCBGb250CgojICJOZXJkIEZvbnRzIC0gT2N0aWNvbnMiCnN5bWJvbF9tYXAgVStmNDAwLVUrZjRhOCxVKzI2NjUtVSsyNjY1LFUrMjZBMS1VKzI2QTEsVStmMjdjLVUrZjI3YyBJb3NldmthIE5lcmQgRm9udAoKIyAiTmVyZCBGb250cyAtIEZvbnQgTGludXgiCnN5bWJvbF9tYXAgVStGMzAwLVUrRjMxMyBJb3NldmthIE5lcmQgRm9udAoKIyAgTmVyZCBGb250cyAtIEZvbnQgUG93ZXIgU3ltYm9scyIKc3ltYm9sX21hcCBVKzIzZmItVSsyM2ZlLFUrMmI1OC1VKzJiNTggSW9zZXZrYSBOZXJkIEZvbnQKCiMgICJOZXJkIEZvbnRzIC0gTWF0ZXJpYWwgRGVzaWduIEljb25zIgpzeW1ib2xfbWFwIFUrZjUwMC1VK2ZkNDYgSW9zZXZrYSBOZXJkIEZvbnQKCiMgIk5lcmQgRm9udHMgLSBXZWF0aGVyIEljb25zIgpzeW1ib2xfbWFwIFUrZTMwMC1VK2UzZWIgSW9zZXZrYSBOZXJkIEZvbnQKCiMgTWlzYyBDb2RlIFBvaW50IEZpeGVzCnN5bWJvbF9tYXAgVSsyMUI1LFUrMjVCOCxVKzI2MDUsVSsyNjMwLFUrMjYzMixVKzI3MTQsVStFMEEzLFUrRTYxNSxVK0U2MkIgSW9zZXZrYSBOZXJkIEZvbnQKZGlzYWJsZV9saWdhdHVyZXMgbmV2ZXIKYm94X2RyYXdpbmdfc2NhbGUgMC4wMDEsIDAuMDEsIDAuMSwgMQoKIyBUaGVtZQpmb3JlZ3JvdW5kICNmZmZmZmYKYmFja2dyb3VuZCAjMDMwNTE3CmJhY2tncm91bmRfb3BhY2l0eSAwLjk3CnNlbGVjdGlvbl9mb3JlZ3JvdW5kICMxZTFlMmUKc2VsZWN0aW9uX2JhY2tncm91bmQgIzFBNUZCNAp1cmxfY29sb3IgIzFBNUZCNAoKIyBDb2xvcnMgZm9yIG1hcmtzIChtYXJrZWQgdGV4dCBpbiB0aGUgdGVybWluYWwpCm1hcmsxX2ZvcmVncm91bmQgIzFlMWUyZQptYXJrMV9iYWNrZ3JvdW5kICNiNGJlZmUKbWFyazJfZm9yZWdyb3VuZCAjMWUxZTJlCm1hcmsyX2JhY2tncm91bmQgI2NiYTZmNwptYXJrM19mb3JlZ3JvdW5kICMxZTFlMmUKbWFyazNfYmFja2dyb3VuZCAjNzRjN2VjCgojIFRoZSAxNiB0ZXJtaW5hbCBjb2xvcnMKIyBibGFjawpjb2xvcjAgIzQ1NDc1YQpjb2xvcjggIzU4NWI3MAojIHJlZApjb2xvcjEgI2YzOGJhOApjb2xvcjkgI2YzOGJhOAojIGdyZWVuCmNvbG9yMiAgI2E2ZTNhMQpjb2xvcjEwICNhNmUzYTEKIyB5ZWxsb3cKY29sb3IzICAjZjllMmFmCmNvbG9yMTEgI2Y5ZTJhZgojIGJsdWUKY29sb3I0ICAjODliNGZhCmNvbG9yMTIgIzg5YjRmYQojIG1hZ2VudGEKY29sb3I1ICAjZjVjMmU3CmNvbG9yMTMgI2Y1YzJlNwojIGN5YW4KY29sb3I2ICAjOTRlMmQ1CmNvbG9yMTQgIzk0ZTJkNQojIHdoaXRlCmNvbG9yNyAgI2JhYzJkZQpjb2xvcjE1ICNhNmFkYzgKCgojIEN1cnNvcgpjdXJzb3Jfc2hhcGUgdW5kZXJsaW5lCmN1cnNvciAjMUE1RkI0CnNoZWxsX2ludGVncmF0aW9uIG5vLWN1cnNvcgoKIyBLZXltYXBzCiAjIENsaXBib2FyZAogbWFwIGN0cmwrdiBwYXN0ZV9mcm9tX2NsaXBib2FyZAogIyBSZXNpemUKIG1hcCBjdHJsKy0gc2V0X2ZvbnRfc2l6ZSAtCiBtYXAgY3RybCs9IHNldF9mb250X3NpemUgKwAAAAAAAAAAuAkAAAAAAAAAAAAAAAAAAAAAAAC4CQAAAAAAAAAAAAAAAAAAAAAAALgJAAAAAAAAAAAAAAAAAAAAAAAAuAkAAAAAAAAAAAAAAAAAAAAAAAC4CQAAAAAAAAAAAAAAAAAAAAAAALgJAAAAAAAAAAAAAAAAAAAAAAAAuAkAAAAAAAAAAAAA",
+							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAWgYAAAAAAABaBgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/haruno/.zshrc",
+					"settings":
+					{
+						"buffer_size": 4623,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/haruno/archcraft.db",
+					"settings":
+					{
+						"buffer_size": 19,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/haruno/.config/dunst/dunstrc",
+					"settings":
+					{
+						"buffer_size": 14645,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							15,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOEEAAAAAAAA4QQAAAAAAAABAAAALA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADiBAAAAAAAAOIEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": "x"
+							},
+							"AQAAAOEEAAAAAAAA4gQAAAAAAAAAAAAA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADhBAAAAAAAAOEEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							18,
+							1,
+							"left_delete",
+							null,
+							"AQAAAOQEAAAAAAAA5AQAAAAAAAABAAAAKQ",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADlBAAAAAAAAOUEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							20,
+							1,
+							"left_delete",
+							null,
+							"AQAAAN8EAAAAAAAA3wQAAAAAAAABAAAAKA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADgBAAAAAAAAOAEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							23,
+							37,
+							"left_delete",
+							null,
+							"JQAAAJc5AAAAAAAAlzkAAAAAAAABAAAAZ5Y5AAAAAAAAljkAAAAAAAABAAAAZpU5AAAAAAAAlTkAAAAAAAABAAAAY5Q5AAAAAAAAlDkAAAAAAAABAAAAPZM5AAAAAAAAkzkAAAAAAAABAAAAdJI5AAAAAAAAkjkAAAAAAAABAAAAZpE5AAAAAAAAkTkAAAAAAAABAAAAIJA5AAAAAAAAkDkAAAAAAAABAAAAOo85AAAAAAAAjzkAAAAAAAABAAAAbY45AAAAAAAAjjkAAAAAAAABAAAAaY05AAAAAAAAjTkAAAAAAAABAAAAdow5AAAAAAAAjDkAAAAAAAABAAAAIIs5AAAAAAAAizkAAAAAAAABAAAACoo5AAAAAAAAijkAAAAAAAABAAAACok5AAAAAAAAiTkAAAAAAAABAAAAIog5AAAAAAAAiDkAAAAAAAABAAAAZYc5AAAAAAAAhzkAAAAAAAABAAAAbYY5AAAAAAAAhjkAAAAAAAABAAAAdYU5AAAAAAAAhTkAAAAAAAABAAAAbIQ5AAAAAAAAhDkAAAAAAAABAAAAb4M5AAAAAAAAgzkAAAAAAAABAAAAdoI5AAAAAAAAgjkAAAAAAAABAAAAIoE5AAAAAAAAgTkAAAAAAAABAAAAIIA5AAAAAAAAgDkAAAAAAAABAAAAPX85AAAAAAAAfzkAAAAAAAABAAAAIH45AAAAAAAAfjkAAAAAAAABAAAAZ305AAAAAAAAfTkAAAAAAAABAAAAYXw5AAAAAAAAfDkAAAAAAAABAAAAdHs5AAAAAAAAezkAAAAAAAABAAAAX3o5AAAAAAAAejkAAAAAAAABAAAAa3k5AAAAAAAAeTkAAAAAAAABAAAAY3g5AAAAAAAAeDkAAAAAAAABAAAAYXc5AAAAAAAAdzkAAAAAAAABAAAAdHY5AAAAAAAAdjkAAAAAAAABAAAAc3U5AAAAAAAAdTkAAAAAAAABAAAAX3Q5AAAAAAAAdDkAAAAAAAABAAAAdHM5AAAAAAAAczkAAAAAAAABAAAAZQ",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACYOQAAAAAAAJg5AAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							24,
+							44,
+							"left_delete",
+							null,
+							"LAAAAHI5AAAAAAAAcjkAAAAAAAABAAAAc245AAAAAAAAbjkAAAAAAAAEAAAAICAgIG05AAAAAAAAbTkAAAAAAAABAAAACmw5AAAAAAAAbDkAAAAAAAABAAAAIms5AAAAAAAAazkAAAAAAAABAAAAc2o5AAAAAAAAajkAAAAAAAABAAAAcmk5AAAAAAAAaTkAAAAAAAABAAAAZWg5AAAAAAAAaDkAAAAAAAABAAAAaWc5AAAAAAAAZzkAAAAAAAABAAAAZmY5AAAAAAAAZjkAAAAAAAABAAAAaWU5AAAAAAAAZTkAAAAAAAABAAAAdGQ5AAAAAAAAZDkAAAAAAAABAAAAb2M5AAAAAAAAYzkAAAAAAAABAAAAbmI5AAAAAAAAYjkAAAAAAAABAAAAX2E5AAAAAAAAYTkAAAAAAAABAAAAZWA5AAAAAAAAYDkAAAAAAAABAAAAbV85AAAAAAAAXzkAAAAAAAABAAAAdV45AAAAAAAAXjkAAAAAAAABAAAAbF05AAAAAAAAXTkAAAAAAAABAAAAb1w5AAAAAAAAXDkAAAAAAAABAAAAdls5AAAAAAAAWzkAAAAAAAABAAAAX1o5AAAAAAAAWjkAAAAAAAABAAAAZVk5AAAAAAAAWTkAAAAAAAABAAAAbVg5AAAAAAAAWDkAAAAAAAABAAAAb1c5AAAAAAAAVzkAAAAAAAABAAAAc1Y5AAAAAAAAVjkAAAAAAAABAAAAIlU5AAAAAAAAVTkAAAAAAAABAAAAIFQ5AAAAAAAAVDkAAAAAAAABAAAAPVM5AAAAAAAAUzkAAAAAAAABAAAAIFI5AAAAAAAAUjkAAAAAAAABAAAAZVE5AAAAAAAAUTkAAAAAAAABAAAAbVA5AAAAAAAAUDkAAAAAAAABAAAAYU85AAAAAAAATzkAAAAAAAABAAAAbk45AAAAAAAATjkAAAAAAAABAAAAcE05AAAAAAAATTkAAAAAAAABAAAAcEw5AAAAAAAATDkAAAAAAAABAAAAYUg5AAAAAAAASDkAAAAAAAAEAAAAICAgIEc5AAAAAAAARzkAAAAAAAABAAAACkY5AAAAAAAARjkAAAAAAAABAAAAXUU5AAAAAAAARTkAAAAAAAABAAAAc0Q5AAAAAAAARDkAAAAAAAABAAAAZUM5AAAAAAAAQzkAAAAAAAABAAAAbUI5AAAAAAAAQjkAAAAAAAABAAAAdUE5AAAAAAAAQTkAAAAAAAABAAAAbA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABzOQAAAAAAAHM5AAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							25,
+							9,
+							"left_delete",
+							null,
+							"CQAAAEA5AAAAAAAAQDkAAAAAAAABAAAAbz85AAAAAAAAPzkAAAAAAAABAAAAdj45AAAAAAAAPjkAAAAAAAABAAAALT05AAAAAAAAPTkAAAAAAAABAAAAazw5AAAAAAAAPDkAAAAAAAABAAAAYzs5AAAAAAAAOzkAAAAAAAABAAAAYTo5AAAAAAAAOjkAAAAAAAABAAAAdDk5AAAAAAAAOTkAAAAAAAABAAAAczg5AAAAAAAAODkAAAAAAAABAAAAWw",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBOQAAAAAAAEE5AAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							28,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFsEAAAAAAAAWwQAAAAAAAABAAAAKA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcBAAAAAAAAFwEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							31,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGAEAAAAAAAAYAQAAAAAAAABAAAAKQ",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABhBAAAAAAAAGEEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							34,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFwEAAAAAAAAXAQAAAAAAAABAAAALA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABdBAAAAAAAAF0EAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": "x"
+							},
+							"AQAAAFwEAAAAAAAAXQQAAAAAAAAAAAAA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcBAAAAAAAAFwEAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							36,
+							2,
+							"left_delete",
+							null,
+							"AgAAAFwEAAAAAAAAXAQAAAAAAAABAAAAeFsEAAAAAAAAWwQAAAAAAAABAAAAMA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABdBAAAAAAAAF0EAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGEHAAAAAAAAYQcAAAAAAAABAAAAMw",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYgcAAAAAAABiBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "4"
+							},
+							"AQAAAGEHAAAAAAAAYgcAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYQcAAAAAAABhBwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"left_delete",
+							null,
+							"AQAAALQHAAAAAAAAtAcAAAAAAAABAAAAMw",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtQcAAAAAAAC1BwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "4"
+							},
+							"AQAAALQHAAAAAAAAtQcAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAtAcAAAAAAAC0BwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/haruno/.config/hypr/settings/manual_settings.conf",
+					"settings":
+					{
+						"buffer_size": 12834,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"left_delete",
+							null,
+							"AQAAANknAAAAAAAA2ScAAAAAAAABAAAAMA",
+							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAA2icAAAAAAADaJwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"left_delete",
+							null,
+							"AQAAADsoAAAAAAAAOygAAAAAAAABAAAAMA",
+							"BwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAPCgAAAAAAAA8KAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							2,
+							"left_delete",
+							null,
+							"AgAAAHITAAAAAAAAchMAAAAAAAABAAAAbnETAAAAAAAAcRMAAAAAAAABAAAAbw",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABzEwAAAAAAAHMTAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "off"
+							},
+							"AwAAAHETAAAAAAAAchMAAAAAAAAAAAAAchMAAAAAAABzEwAAAAAAAAAAAABzEwAAAAAAAHQTAAAAAAAAAAAAAA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABxEwAAAAAAAHETAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							5,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAooAAAAAAAACigAAAAAAAABAAAAaQ",
+							"AQAAAAAAAAABAAAACygAAAAAAAALKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "g"
+							},
+							"AQAAAAooAAAAAAAACygAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACigAAAAAAAAKKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGsoAAAAAAAAaygAAAAAAAABAAAAaQ",
+							"AQAAAAAAAAABAAAAbCgAAAAAAABsKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "g"
+							},
+							"AQAAAGsoAAAAAAAAbCgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAaygAAAAAAABrKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							12,
+							"left_delete",
+							null,
+							"DAAAAHEoAAAAAAAAcSgAAAAAAAABAAAACnAoAAAAAAAAcCgAAAAAAAABAAAAIG8oAAAAAAAAbygAAAAAAAABAAAAIm4oAAAAAAAAbigAAAAAAAABAAAAKW0oAAAAAAAAbSgAAAAAAAABAAAAIGwoAAAAAAAAbCgAAAAAAAABAAAAJWsoAAAAAAAAaygAAAAAAAABAAAAZ2ooAAAAAAAAaigAAAAAAAABAAAAIGkoAAAAAAAAaSgAAAAAAAABAAAAbGgoAAAAAAAAaCgAAAAAAAABAAAAdGcoAAAAAAAAZygAAAAAAAABAAAAY2YoAAAAAAAAZigAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAcigAAAAAAAByKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							19,
+							"left_delete",
+							null,
+							"EwAAAGUoAAAAAAAAZSgAAAAAAAABAAAAc2QoAAAAAAAAZCgAAAAAAAABAAAAZWMoAAAAAAAAYygAAAAAAAABAAAAbmIoAAAAAAAAYigAAAAAAAABAAAAdGEoAAAAAAAAYSgAAAAAAAABAAAAaGAoAAAAAAAAYCgAAAAAAAABAAAAZ18oAAAAAAAAXygAAAAAAAABAAAAaV4oAAAAAAAAXigAAAAAAAABAAAAcl0oAAAAAAAAXSgAAAAAAAABAAAAYlwoAAAAAAAAXCgAAAAAAAABAAAAKFsoAAAAAAAAWygAAAAAAAABAAAAJFooAAAAAAAAWigAAAAAAAABAAAAIlkoAAAAAAAAWSgAAAAAAAABAAAAIFgoAAAAAAAAWCgAAAAAAAABAAAAIlcoAAAAAAAAVygAAAAAAAABAAAAc1YoAAAAAAAAVigAAAAAAAABAAAAc1UoAAAAAAAAVSgAAAAAAAABAAAAZVQoAAAAAAAAVCgAAAAAAAABAAAAblMoAAAAAAAAUygAAAAAAAABAAAAdA",
+							"AQAAAAAAAAABAAAAZigAAAAAAABmKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							13,
+							"left_delete",
+							null,
+							"DQAAAFIoAAAAAAAAUigAAAAAAAABAAAAaFEoAAAAAAAAUSgAAAAAAAABAAAAZ1AoAAAAAAAAUCgAAAAAAAABAAAAaU8oAAAAAAAATygAAAAAAAABAAAAck4oAAAAAAAATigAAAAAAAABAAAAQk0oAAAAAAAATSgAAAAAAAABAAAAIkwoAAAAAAAATCgAAAAAAAABAAAAIEsoAAAAAAAASygAAAAAAAABAAAAZEooAAAAAAAASigAAAAAAAABAAAAbkkoAAAAAAAASSgAAAAAAAABAAAAZUgoAAAAAAAASCgAAAAAAAABAAAAc0coAAAAAAAARygAAAAAAAABAAAALUYoAAAAAAAARigAAAAAAAABAAAAeQ",
+							"AQAAAAAAAAABAAAAUygAAAAAAABTKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							9,
+							"left_delete",
+							null,
+							"CQAAAEUoAAAAAAAARSgAAAAAAAABAAAAZkQoAAAAAAAARCgAAAAAAAABAAAAaUMoAAAAAAAAQygAAAAAAAABAAAAdEIoAAAAAAAAQigAAAAAAAABAAAAb0EoAAAAAAAAQSgAAAAAAAABAAAAbkAoAAAAAAAAQCgAAAAAAAABAAAAID8oAAAAAAAAPygAAAAAAAABAAAAJj4oAAAAAAAAPigAAAAAAAABAAAAJj0oAAAAAAAAPSgAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAARigAAAAAAABGKAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							36,
+							"right_delete",
+							null,
+							"JAAAANwnAAAAAAAA3CcAAAAAAAABAAAAINwnAAAAAAAA3CcAAAAAAAABAAAAJtwnAAAAAAAA3CcAAAAAAAABAAAAJtwnAAAAAAAA3CcAAAAAAAABAAAAINwnAAAAAAAA3CcAAAAAAAABAAAAbtwnAAAAAAAA3CcAAAAAAAABAAAAb9wnAAAAAAAA3CcAAAAAAAABAAAAdNwnAAAAAAAA3CcAAAAAAAABAAAAadwnAAAAAAAA3CcAAAAAAAABAAAAZtwnAAAAAAAA3CcAAAAAAAABAAAAedwnAAAAAAAA3CcAAAAAAAABAAAALdwnAAAAAAAA3CcAAAAAAAABAAAAc9wnAAAAAAAA3CcAAAAAAAABAAAAZdwnAAAAAAAA3CcAAAAAAAABAAAAbtwnAAAAAAAA3CcAAAAAAAABAAAAZNwnAAAAAAAA3CcAAAAAAAABAAAAINwnAAAAAAAA3CcAAAAAAAABAAAAItwnAAAAAAAA3CcAAAAAAAABAAAAQtwnAAAAAAAA3CcAAAAAAAABAAAActwnAAAAAAAA3CcAAAAAAAABAAAAadwnAAAAAAAA3CcAAAAAAAABAAAAZ9wnAAAAAAAA3CcAAAAAAAABAAAAaNwnAAAAAAAA3CcAAAAAAAABAAAAdNwnAAAAAAAA3CcAAAAAAAABAAAAbtwnAAAAAAAA3CcAAAAAAAABAAAAZdwnAAAAAAAA3CcAAAAAAAABAAAAc9wnAAAAAAAA3CcAAAAAAAABAAAAc9wnAAAAAAAA3CcAAAAAAAABAAAAItwnAAAAAAAA3CcAAAAAAAABAAAAINwnAAAAAAAA3CcAAAAAAAABAAAAItwnAAAAAAAA3CcAAAAAAAABAAAAJNwnAAAAAAAA3CcAAAAAAAABAAAAKNwnAAAAAAAA3CcAAAAAAAABAAAAYtwnAAAAAAAA3CcAAAAAAAABAAAActwnAAAAAAAA3CcAAAAAAAABAAAAadwnAAAAAAAA3CcAAAAAAAABAAAAZw",
+							"AQAAAAAAAAABAAAA3CcAAAAAAADcJwAAAAAAAAAAAAAAEHVA"
+						],
+						[
+							25,
+							15,
+							"right_delete",
+							null,
+							"DwAAANwnAAAAAAAA3CcAAAAAAAABAAAAaNwnAAAAAAAA3CcAAAAAAAABAAAAdNwnAAAAAAAA3CcAAAAAAAABAAAAbtwnAAAAAAAA3CcAAAAAAAABAAAAZdwnAAAAAAAA3CcAAAAAAAABAAAAc9wnAAAAAAAA3CcAAAAAAAABAAAAc9wnAAAAAAAA3CcAAAAAAAABAAAAY9wnAAAAAAAA3CcAAAAAAAABAAAAdNwnAAAAAAAA3CcAAAAAAAABAAAAbNwnAAAAAAAA3CcAAAAAAAABAAAAINwnAAAAAAAA3CcAAAAAAAABAAAAZ9wnAAAAAAAA3CcAAAAAAAABAAAAJdwnAAAAAAAA3CcAAAAAAAABAAAAINwnAAAAAAAA3CcAAAAAAAABAAAAKdwnAAAAAAAA3CcAAAAAAAABAAAAIg",
+							"AQAAAAAAAAABAAAA3CcAAAAAAADcJwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/haruno/.config/waybar/config",
+					"settings":
+					{
+						"buffer_size": 8184,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							6,
+							1,
+							"left_delete",
+							null,
+							"AQAAACwCAAAAAAAALAIAAAAAAAABAAAAQA",
+							"AQAAAAAAAAABAAAALQIAAAAAAAAtAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAEgTAAAAAAAASRMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAASBMAAAAAAABIEwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEgTAAAAAAAASBMAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAASRMAAAAAAABJEwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							23,
+							"left_delete",
+							null,
+							"FwAAAKoPAAAAAAAAqg8AAAAAAAABAAAAIqkPAAAAAAAAqQ8AAAAAAAABAAAAdKgPAAAAAAAAqA8AAAAAAAABAAAAdacPAAAAAAAApw8AAAAAAAABAAAAb6YPAAAAAAAApg8AAAAAAAABAAAAeaUPAAAAAAAApQ8AAAAAAAABAAAAYaQPAAAAAAAApA8AAAAAAAABAAAAbKMPAAAAAAAAow8AAAAAAAABAAAALaIPAAAAAAAAog8AAAAAAAABAAAAZKEPAAAAAAAAoQ8AAAAAAAABAAAAcqAPAAAAAAAAoA8AAAAAAAABAAAAYZ8PAAAAAAAAnw8AAAAAAAABAAAAb54PAAAAAAAAng8AAAAAAAABAAAAYp0PAAAAAAAAnQ8AAAAAAAABAAAAeZwPAAAAAAAAnA8AAAAAAAABAAAAZZsPAAAAAAAAmw8AAAAAAAABAAAAa5oPAAAAAAAAmg8AAAAAAAABAAAAL5kPAAAAAAAAmQ8AAAAAAAABAAAAbZgPAAAAAAAAmA8AAAAAAAABAAAAb5cPAAAAAAAAlw8AAAAAAAABAAAAdJYPAAAAAAAAlg8AAAAAAAABAAAAc5UPAAAAAAAAlQ8AAAAAAAABAAAAdZQPAAAAAAAAlA8AAAAAAAABAAAAYw",
+							"AQAAAAAAAAABAAAAqw8AAAAAAACrDwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							5,
+							"left_delete",
+							null,
+							"BQAAAJMPAAAAAAAAkw8AAAAAAAABAAAAIo8PAAAAAAAAjw8AAAAAAAAEAAAAICAgIIsPAAAAAAAAiw8AAAAAAAAEAAAAICAgIIcPAAAAAAAAhw8AAAAAAAAEAAAAICAgIIYPAAAAAAAAhg8AAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAlA8AAAAAAACUDwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							1,
+							"left_delete",
+							null,
+							"AQAAAMQEAAAAAAAAxAQAAAAAAAAEAAAA8J+WtA",
+							"AQAAAAAAAAABAAAAxQQAAAAAAADFBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "M"
+							},
+							"AQAAAMQEAAAAAAAAxQQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxAQAAAAAAADEBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"left_delete",
+							null,
+							"AQAAAMUEAAAAAAAAxQQAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAxgQAAAAAAADGBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"left_delete",
+							null,
+							"AQAAAMcEAAAAAAAAxwQAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAyAQAAAAAAADIBAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							8,
+							"left_delete",
+							null,
+							"CAAAACwLAAAAAAAALAsAAAAAAAABAAAAZCsLAAAAAAAAKwsAAAAAAAABAAAAZSoLAAAAAAAAKgsAAAAAAAABAAAAbCkLAAAAAAAAKQsAAAAAAAABAAAAYigLAAAAAAAAKAsAAAAAAAABAAAAYScLAAAAAAAAJwsAAAAAAAABAAAAcyYLAAAAAAAAJgsAAAAAAAABAAAAaSULAAAAAAAAJQsAAAAAAAABAAAARA",
+							"AQAAAAAAAAABAAAALQsAAAAAAAAtCwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							8,
+							"left_delete",
+							null,
+							"CAAAAJYKAAAAAAAAlgoAAAAAAAABAAAAZJUKAAAAAAAAlQoAAAAAAAABAAAAZZQKAAAAAAAAlAoAAAAAAAABAAAAbJMKAAAAAAAAkwoAAAAAAAABAAAAYpIKAAAAAAAAkgoAAAAAAAABAAAAYZEKAAAAAAAAkQoAAAAAAAABAAAAc5AKAAAAAAAAkAoAAAAAAAABAAAAaY8KAAAAAAAAjwoAAAAAAAABAAAARA",
+							"AQAAAAAAAAABAAAAlwoAAAAAAACXCgAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/haruno/.config/waybar/style.css",
+					"settings":
+					{
+						"buffer_size": 2235,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"left_delete",
+							null,
+							"AQAAAK8BAAAAAAAArwEAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "2"
+							},
+							"AQAAAK8BAAAAAAAAsAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"left_delete",
+							null,
+							"AQAAANsBAAAAAAAA2wEAAAAAAAABAAAAMA",
+							"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAANsBAAAAAAAA3AEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA2wEAAAAAAADbAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGIBAAAAAAAAYgEAAAAAAAABAAAANQ",
+							"AQAAAAAAAAABAAAAYwEAAAAAAABjAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAGIBAAAAAAAAYwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYgEAAAAAAABiAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"left_delete",
+							null,
+							"AQAAAHUBAAAAAAAAdQEAAAAAAAABAAAAMA",
+							"AQAAAAAAAAABAAAAdgEAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/haruno/.config/hypr/hyprland.conf",
+					"settings":
+					{
+						"buffer_size": 1524,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							10,
+							"left_delete",
+							null,
+							"CgAAAB8CAAAAAAAAHwIAAAAAAAABAAAAdB4CAAAAAAAAHgIAAAAAAAABAAAAbh0CAAAAAAAAHQIAAAAAAAABAAAAZRwCAAAAAAAAHAIAAAAAAAABAAAAaRsCAAAAAAAAGwIAAAAAAAABAAAAbBoCAAAAAAAAGgIAAAAAAAABAAAAYxkCAAAAAAAAGQIAAAAAAAABAAAAdBgCAAAAAAAAGAIAAAAAAAABAAAAbxcCAAAAAAAAFwIAAAAAAAABAAAAbxYCAAAAAAAAFgIAAAAAAAABAAAAZg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAgAgAAAAAAACACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "kitty"
+							},
+							"BQAAABYCAAAAAAAAFwIAAAAAAAAAAAAAFwIAAAAAAAAYAgAAAAAAAAAAAAAYAgAAAAAAABkCAAAAAAAAAAAAABkCAAAAAAAAGgIAAAAAAAAAAAAAGgIAAAAAAAAbAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAWAgAAAAAAABYCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							24,
+							"left_delete",
+							null,
+							"GAAAADMCAAAAAAAAMwIAAAAAAAABAAAAZDICAAAAAAAAMgIAAAAAAAABAAAAbjECAAAAAAAAMQIAAAAAAAABAAAAYTACAAAAAAAAMAIAAAAAAAABAAAAbC8CAAAAAAAALwIAAAAAAAABAAAAci4CAAAAAAAALgIAAAAAAAABAAAAcC0CAAAAAAAALQIAAAAAAAABAAAAeSwCAAAAAAAALAIAAAAAAAABAAAASCsCAAAAAAAAKwIAAAAAAAABAAAALSoCAAAAAAAAKgIAAAAAAAABAAAARykCAAAAAAAAKQIAAAAAAAABAAAAICgCAAAAAAAAKAIAAAAAAAABAAAAVCcCAAAAAAAAJwIAAAAAAAABAAAALSYCAAAAAAAAJgIAAAAAAAABAAAAICUCAAAAAAAAJQIAAAAAAAABAAAAMCQCAAAAAAAAJAIAAAAAAAABAAAAMCMCAAAAAAAAIwIAAAAAAAABAAAANiICAAAAAAAAIgIAAAAAAAABAAAAeCECAAAAAAAAIQIAAAAAAAABAAAAMCACAAAAAAAAIAIAAAAAAAABAAAANR8CAAAAAAAAHwIAAAAAAAABAAAANx4CAAAAAAAAHgIAAAAAAAABAAAAIB0CAAAAAAAAHQIAAAAAAAABAAAAdxwCAAAAAAAAHAIAAAAAAAABAAAALQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA0AgAAAAAAADQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							1,
+							"left_delete",
+							null,
+							"AQAAABsCAAAAAAAAGwIAAAAAAAABAAAAIA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAgAAAAAAABwCAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/haruno/.config/hypr/hyprstart",
+					"settings":
+					{
+						"buffer_size": 270,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							4,
+							"left_delete",
+							null,
+							"BAAAAMoAAAAAAAAAygAAAAAAAAABAAAAdMkAAAAAAAAAyQAAAAAAAAABAAAAb8gAAAAAAAAAyAAAAAAAAAABAAAAb8cAAAAAAAAAxwAAAAAAAAABAAAAZg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLAAAAAAAAAMsAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "kitty"
+							},
+							"BQAAAMcAAAAAAAAAyAAAAAAAAAAAAAAAyAAAAAAAAADJAAAAAAAAAAAAAADJAAAAAAAAAMoAAAAAAAAAAAAAAMoAAAAAAAAAywAAAAAAAAAAAAAAywAAAAAAAADMAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADHAAAAAAAAAMcAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/haruno",
+				"/home/haruno/.config",
+				"/home/haruno/.config/dunst",
+				"/home/haruno/.config/hypr",
+				"/home/haruno/.config/hypr/brain",
+				"/home/haruno/.config/hypr/scripts",
+				"/home/haruno/.config/kitty",
+				"/home/haruno/.config/rofi",
+				"/home/haruno/.config/rofi/colors",
+				"/home/haruno/.config/rofi/launchers",
+				"/home/haruno/.config/rofi/launchers/type-1",
+				"/home/haruno/.config/rofi/launchers/type-1/shared",
+				"/home/haruno/.config/waybar"
+			],
+			"file_history":
+			[
+				"/etc/pacman.d/archcraft.db",
+				"/usr/share/zsh/site-functions/_brew_cask",
+				"/home/haruno/.config/kitty/kitty.conf",
+				"/home/haruno/.config/rofi/colors/black.rasi",
+				"/home/haruno/dotfiles/.config/hypr/settings/manual_settings.conf",
+				"/home/haruno/archcraft-plymouth-theme-1.0-5-any.pkg.tar.zst"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"konsole"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"kitty"
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/haruno"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/haruno/.config/kitty/kitty.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2488,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1626,
+										1626
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1569.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/haruno/.zshrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4623,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4445,
+										4445
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1060.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/haruno/archcraft.db",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/haruno/.config/dunst/dunstrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14645,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1729,
+										1729
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 427.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/haruno/.config/hypr/settings/manual_settings.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12834,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10204,
+										10204
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4657.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/haruno/.config/waybar/config",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8184,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2703,
+										2703
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 580.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/haruno/.config/waybar/style.css",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2235,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										373,
+										373
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1298.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/haruno/.config/hypr/hyprland.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1524,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										539,
+										539
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/haruno/.config/hypr/hyprstart",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 270,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										204,
+										204
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,948,1036,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

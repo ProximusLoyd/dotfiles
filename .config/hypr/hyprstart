@@ -7,13 +7,13 @@ export XCURSOR_SIZE=6
 
 # text editor
 export MICRO_TRUECOLOR=1
-export EDITOR=/usr/bin/nano
+export EDITOR=/usr/bin/micro
 
 #browser
-export BROWSER = brave
+export BROWSER=brave
 #terminal
-export TERM = konsole
+export TERM=kitty
 #mail
-export MAIL = thunderbird
+export MAIL=thunderbird
 
 # check /usr/local/bin/hyprstart 

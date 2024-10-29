@@ -18,7 +18,7 @@
         "format": "{}",
         "format-icons": {
       "urgent": "",
-      "active": "@",
+      "active": "",
       "default": ""
         },
         "on-scroll-up": "hyprctl dispatch workspace e+1",
@@ -48,7 +48,7 @@
         "on-click": "kitty -e htop"
     },
     "memory": {
-        "format": "🖴 {: >3}%",
+        "format": "M{:>3}%",
         "on-click": "kitty -e htop"
     },
     "temperature": {
@@ -86,11 +86,11 @@
     },
       "network": {
         //"interface": "wlp0s20f3", // (Optional) To force the use of this interface  "format-wifi": "  {essid}",
-        "format": "⚠Disabled",
+        "format": "⚠",
         "format-wifi": " ",
         "format-ethernet": "",
         "format-linked": "{ifname} (No IP)",
-        "format-disconnected": "⚠Disabled",
+        "format-disconnected": "⚠",
         "family": "ipv4",
         "tooltip-format-wifi": "  {ifname} @ {essid}\nIP: {ipaddr}\nStrength: {signalStrength}%\nFreq: {frequency}MHz\nUp: {bandwidthUpBits} Down: {bandwidthDownBits}",
         "tooltip-format-ethernet": " {ifname}\nIP: {ipaddr}\n up: {bandwidthUpBits} down: {bandwidthDownBits}",
@@ -122,7 +122,6 @@
             "cpu",
             "memory",
             "custom/updates",
-            "custom/keyboard-layout"
         ]  
     },
     "group/tr": {
@@ -250,4 +249,3 @@
         // Please don't change it to any special location, let the user do it by themselves 
         },
     }
-

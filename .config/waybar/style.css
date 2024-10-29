@@ -20,17 +20,17 @@
 }
 
 button {
-  min-height: 5px;
-  min-width: 10px;
+  min-height: 1px;
+  min-width: 1px;
 }
 
 #workspaces {
   margin-left: 2px;
-  margin-right: 1px;
+  margin-right: 2px;
 }
 
 #workspaces button {
-  padding: 0px 0px;
+  padding: 0px 3px;
   background: #030517;
   border-radius: 3px;
 }
@@ -128,4 +128,3 @@ button {
 #temperature.critical {
   color: #800020;
 }
-
